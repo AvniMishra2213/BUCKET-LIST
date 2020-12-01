@@ -5,7 +5,7 @@ class Book {
         this.author = author;
         this.type = type;
     }
-}
+}.  
 
 class Display {
     add(book) {
